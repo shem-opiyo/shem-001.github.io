@@ -7,5 +7,3 @@ This repository is built step by step in the tutorial.
 It now incudes steps for github
 
 added a new line 
-
-this is a newline to demonstrate git revert
